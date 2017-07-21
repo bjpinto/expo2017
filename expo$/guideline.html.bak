@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Guidelines</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body>
+    <!-- Header -->
+    <header id="header">
+      <div class="inner"><img style="float:left; margin-left: -75px; margin-top: 3px; margin-bottom: 4px"; src="images/logo.png"; width="250px"; height="80px"><a href="index1.html">Home</a> <a href="about.html">About</a>
+        <a href="registration.html">Registration</a> <a href="map.html">Maps&amp;Documents</a>
+        <a href="contact.html">Contact Us</a></div>
+    </header>
+    <a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+    <!-- Main -->
+    <section id="main">
+      <div class="inner">
+        <header class="major special">
+          <h1><font color="#006747">GUIDELINES FOR ATTENDEES<br>
+            </font></h1>
+        </header>
+        <!-- Text -->
+        <section>
+          <ol>
+            <li>1. If you are a school group, make sure to check-in at
+                registration tent next to Juniper-Poplar where the buses unload.</li>
+            <li>2. Check-in for anyone not affiliated with a school group will be
+              at the Information tent next to building Engineering Building II
+              (ENB).</li>
+            <li>3. Do not climb on walls, trees, or statues.</li>
+            <li>4. Trash is to thrown in garbage cans, not on the ground!</li>
+            <li>5. Be courteous in labs and classrooms (do not pull eyewash stations,
+                yell indoors, run indoors, etc.) </li>
+            <li>6. USF is not responsible for lost or stolen belongings, keep track of
+                your things! We will have a Lost and Found box at the
+                Information Tent, but that is all we will do.</li>
+            <li>7. Wear comfortable clothing and shoes, there will be a lot of walking
+                and a lot of time spent outside; there may be long lines. Dress
+                for the weather.</li>
+            <li>8. Maps and Parking information will be put on the website as Expo draws
+                closer.</li>
+          </ol>
+        </section>
+      </div>
+    </section>
+    <!-- Footer -->
+    <section id="footer">
+      <div class="inner">
+        <header>
+          <h2>SOCIAL MEDIA</h2>
+        </header>
+        <ul class="icons">
+          <li><a href="https://twitter.com/USFEngExpo" class="icon fa-twitter"><span
+                class="label">Twitter</span></a><br>
+          </li>
+          <li><a href="https://www.facebook.com/EngineeringEXPOUSF/?fref=ts" class="icon fa-facebook"><span
+                class="label">Facebook</span></a><br>
+          </li>
+          <li><a href="https://www.instagram.com/usfengineeringexpo/" class="icon fa-instagram"><span
+                class="label">Instagram</span></a><br>
+          </li>
+          <li><a href="https://www.linkedin.com/in/usfengineeringexpo" class="icon fa-linkedin"><span
+                class="label">LinkedIn</span></a><br>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+    
+  </body>
+</html>

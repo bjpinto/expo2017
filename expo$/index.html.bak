@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="0; URL='http://expo.eng.usf.edu'; charset=utf-8" http-equiv="content-type">
+    <style type="text/css">  
+    </style>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+   
+    <title>USF Engineering Expo Website</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no\\yes">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body>
+    <!-- Header -->
+    <header id="header">
+      <div class="inner"><img style="float:left; margin-left: -75px; margin-top: 3px; margin-bottom: 4px"; src="images/logo.png"; width="250px"; height="80px"><a href="index.html">Home</a> <a href="about.html">About</a>
+        <a href="reg.html">Registration</a> <a href="map.html">Maps&amp;Documents</a>
+        <a href="contacts.html">Contact Us</a> </div>
+    </header>
+    <a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+    <!-- Banner -->
+    <section><img style="width: 1300px; height: 365px; margin-top: 10px;" src="images/1.png">
+      <div class="inner"> </div>
+    </section>
+
+    <section id="one">
+      <div class="inner">
+        <header>
+          <h1 style="margin-top: -85px;"><font color="#006747">WELCOME
+              TO USF ENGINEERING EXPO 2016-2017<span></span></font></h1>
+          <h3><font color="#006747">February 17<sup>th</sup> - 18<sup>th</sup>,
+              2017</font></h3>
+          <hr>
+          <h2><font color="#006747">WHAT IS ENGINEERING EXPO?</h2></font>
+        </header>
+        <p style="margin-top: 17px; height: 271px;">USF's Engineering Expo seeks
+          to educate K-12 students on the importance of math, science,
+          engineering and technology within their lives. Engineering Expo is a
+          free event and a unique opportunity to meet and talk with Tampa Bay's
+          local engineers and engineering student organizations at USF. Expo
+          features hands on exhibits and shows that help encourage more students
+          to pursue fields in science and mathematics.<br>
+          <br>
+          This is a FREE EVENT where ALL AGES ARE WELCOME to come to the
+          University of South Florida in Tampa to enjoy interactive, educational
+          shows and hands-on exhibits. There is also an opportunity to fulfill
+          Sunshine State Standards and even finish a Scout Badge Achievement.<br>
+          &nbsp; </p>
+        <ul class="actions">
+          <li><a href="about.html"; style="margin-top: -225px;" class="button">Learn More</a></li>
+        </ul>
+      </div>
+    </section>
+    <!-- Two -->
+    <section id="two">
+      <div class="inner">
+        <article>
+          <div class="content">
+            <header> <a href="gallery.html">
+                <h3 style="color: #006747">GALLERY</h3>
+              </a> </header>
+            <div class="image fit"> <img src="images/expo2.JPG" alt=""> </div>
+            <p><font color="black">USF's Engineering Expo has been running for
+                45 years now, and we've documented a lot of these events. See
+                all the fun that we've had in our previous years!</font></p>
+          </div>
+        </article>
+        <article class="alt">
+          <div class="content">
+            <header> <!--<a href="registration.html"> -->
+                <h3 style="color: #006747">FLYERS</h3>
+              </a> </header>
+            <div class="image fit"> <img src="images/flyer.jpg" alt="Expo Flyer"
+                height="325px"
+                width="330px">
+            </div>
+            <p><font color="black">Want to get your community interested in the
+                Engineering Expo? Check out some cool flyers we've made for you!
+              </font></p>
+          </div>
+        </article>
+      </div>
+    </section>
+    <!-- Three -->
+    <section id="three">
+      <div class="inner">
+        <article>
+          <div class="content"> <span class="icon fa-laptop"></span>
+            <header>
+              <h3 style="color: #006747; width: 518px; text-align: left;">Frequently
+                Asked Questions</h3>
+            </header>
+            <p style="width: 490px;"><font color="black">Want to know how much
+                it costs to attend expo? What day is the event? Where can you
+                park? Will there be food and drinks provided? Get these
+                questions answered here!</font></p>
+            <ul class="actions">
+              <li><a href="faqs.html"; style="height: 53px; margin-top: 11px;" href="#" class="button">Learn
+                  More</a><br>
+              </li>
+            </ul>
+          </div>
+        </article>
+        <article>
+          <div style="margin-left: -214px;" class="content"> <span class="icon fa-laptop"></span>
+            <header>
+              <h3 style="color: #006747; margin-left: -1px;">Guidelines</h3>
+            </header>
+            <p><font color="black">Don't know what to do on the day of the
+                event? Here are a few guidelines on what to do and what not to
+                do!</font></p>
+            <font color="black"><a name="contact"></a></font>
+            <ul class="actions">
+              <li><a href="guideline.html"; style="margin-top: 12px; height: 54px;" href="#" class="button">Learn
+                  More</a></li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </section>
+    <!-- Footer -->
+    <section id="footer">
+      <div class="inner">
+        <header>
+          <h2>SOCIAL MEDIA</h2>
+        </header>
+        <ul class="icons">
+          <li><a href="https://twitter.com/USFEngExpo" class="icon fa-twitter"><span
+                class="label">Twitter</span></a><br>
+          </li>
+          <li><a href="https://www.facebook.com/EngineeringEXPOUSF/?fref=ts" class="icon fa-facebook"><span
+                class="label">Facebook</span></a><br>
+          </li>
+          <li><a href="https://www.instagram.com/usfengineeringexpo/" class="icon fa-instagram"><span
+                class="label">Instagram</span></a><br>
+          </li>
+          <li><a href="https://www.linkedin.com/in/usfengineeringexpo" class="icon fa-linkedin"><span
+                class="label">LinkedIn</span></a><br>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script> <a href="https://www.facebook.com/EngineeringEXPOUSF/?fref=ts">
+    </a>
+  </body>
+</html>

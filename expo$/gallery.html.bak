@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body>
+    <!-- Header -->
+    <header id="header">
+      <div class="inner"><img style="float:left; margin-left: -75px; margin-top: 3px; margin-bottom: 4px"; src="images/logo.png"; width="250px"; height="80px"><a style="height: 131px;" href="index1.html">Home</a>
+        <a href="about.html">About</a> <a href="registration.html">Registration</a>
+        <a href="map.html">Maps&amp;Documents</a> <a href="contact.html">Contact
+          Us</a> </div>
+    </header>
+    <a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+    <!-- Main -->
+    <section id="main">
+      <div style="margin-left: 50px; width: 1300px; height: 6800px;" class="inner">
+        <h1>
+          <center><font color="#006747">GALLERY</font></center>
+        </h1>
+        <br>
+        <!-- Image -->
+        <section><span style="width: 1105.5px; margin-left: 55px;" class="image fit"><img
+              style="margin-left: -59px; width: 1171.5px; height: 600px;"
+              src="images/expo2.jpg"
+              alt=""></span>
+          <div class="tile">
+            <div class="tileInner"><img src="images/IMG_9136JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9137JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9138JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9139JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9142JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9141JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9143JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9140JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9145JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9147JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9149JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9150JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9151JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9152JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9153JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9154JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9155JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9156JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9157JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9158JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9159JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9160JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9161JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9162JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9164JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9165JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9166JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9168JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9169JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9170JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9173JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9175JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9178JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9180JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9181JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9184JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9185JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9186JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9187JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9188JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9189JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9191JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9192JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9193JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9194JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9203JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9205JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9207JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9210JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9211JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9213JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9214JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9215JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9216JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9219JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9224JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9234JPG.jpg" alt="image_description">
+            </div>
+          </div>
+          <div class="tile">
+            <div class="tileInner"> <img src="images/IMG_9236JPG.jpg" alt="image_description">
+            </div>
+        </section>
+      </div>
+    </section>
+    <!-- Footer -->
+    <section id="footer">
+      <div class="inner">
+        <header>
+          <h2>SOCIAL MEDIA</h2>
+        </header>
+        <ul class="icons">
+          <li><a href="https://twitter.com/USFEngExpo" class="icon fa-twitter"><span
+                class="label">Twitter</span></a><br>
+          </li>
+          <li><a href="https://www.facebook.com/EngineeringEXPOUSF/?fref=ts" class="icon fa-facebook"><span
+                class="label">Facebook</span></a><br>
+          </li>
+          <li><a href="https://www.instagram.com/usfengineeringexpo/" class="icon fa-instagram"><span
+                class="label">Instagram</span></a><br>
+          </li>
+          <li><a href="https://www.linkedin.com/in/usfengineeringexpo" class="icon fa-linkedin"><span
+                class="label">LinkedIn</span></a><br>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
